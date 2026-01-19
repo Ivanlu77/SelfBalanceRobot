@@ -1,4 +1,4 @@
-# TeamAvengers_Robotics
+# SelfBalanceRobot
 EIE Second Year Project of Imperial College London
 
 ## Project Overview

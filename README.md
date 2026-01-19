@@ -1,5 +1,14 @@
 # SelfBalanceRobot
 EIE Second Year Project of Imperial College London
+<p align="center">
+  <img src="image.png" alt="Balance Robot" width="700"/>
+</p>
+
+<h1 align="center">🤖 Self-Balancing Robot</h1>
+
+<p align="center">
+  PID Control · IMU Fusion · Embedded Systems · Robotics
+</p>
 
 ## Project Overview
 
